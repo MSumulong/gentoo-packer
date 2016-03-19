@@ -1,6 +1,6 @@
 # Gentoo - Minimal Vagrant Box
 
-This is the most minimal stage3 installation of Gentoo (amd64, nomultilib) that
+This is the most minimal stage3 installation of Gentoo (x86, nomultilib) that
 is possible to package into a Vagrant box file. VirtualBox and VMWare versions
 are provided.
 
@@ -45,7 +45,7 @@ stage3 installation manually.
 The following instructions are for VirtualBox, but are easy to translate for
 VMWare.
 
-  1. Download the amd64 stage3 ISO from http://distfiles.gentoo.org/
+  1. Download the x86 stage3 ISO from http://distfiles.gentoo.org/
   2. Create a new "Gentoo64" virtual machine in VirtualBox, named "GentooBuild"
     - Memory 1024MB
     - Disk, 60GB dynamically allocated
