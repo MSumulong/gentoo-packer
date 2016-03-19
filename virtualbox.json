@@ -33,7 +33,7 @@
       "boot_wait": "5s",
       "disk_size": 60000,
       "guest_additions_mode": "disable",
-      "guest_os_type": "Gentoo_32",
+      "guest_os_type": "Gentoo",
       "headless": false,
       "iso_checksum": "b0f37d7de64970a33b9894bed856ad98107a6c4b987ae31c5ce548a20e995b6e406190d2ff1006a8c97d24a4702061c29a46d4a4db074105bca699a89f03572d",
       "iso_checksum_type": "sha512",
