@@ -1,6 +1,6 @@
 # Gentoo - Minimal Vagrant Box
 
-This is the most minimal stage3 installation of Gentoo (x86, nomultilib) that
+This is the most minimal stage3 installation of Gentoo (x86) that
 is possible to package into a Vagrant box file. VirtualBox and VMWare versions
 are provided.
 
